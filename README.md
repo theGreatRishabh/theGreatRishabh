@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theGreatRishabh
+- 👋 Hi, I’m Rishabh
 - 👀 I’m interested in Frontend Development and UI/UX.
 - 🌱 I’m currently working with Angular.
 - 💞️ I’m looking oppertunities in Frontend Developent
