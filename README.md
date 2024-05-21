@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishabh
-- 👀 I’m interested in Frontend Development and UI/UX.
-- 🌱 I’m currently working with Angular.
+- 👀 I’m interested in Frontend Development and hybrid mobile web applications.
+- 🌱 I’m currently working with Angular, Ionic and also learning three.js.
 - 💞️ I’m looking oppertunities in Frontend Developent
 - 📫 How to reach me https://thegreatrishabh.github.io/portfolio/#contact
 
